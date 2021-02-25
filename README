@@ -1,0 +1,19 @@
+# README
+
+README
+Tic Tac Toe Application
+Welcome to Tic Tac Toe Python Web Application! This app was created as a first Python application.
+
+Installation
+Clone this repository and execute:
+
+run python file in terminal
+
+Usage
+Usage of this Python basic app is to allow two players to play a game of tic tac toe.
+
+Contributing
+This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+
+License
+The app is available as open source under the terms of the MIT License.
